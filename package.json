@@ -1,0 +1,14 @@
+{
+  "name": "pdf-splitter",
+  "version": "1.0.0",
+  "description": "Simple script to split PDFs into 2 halves",
+  "main": "./src/script.js",
+  "author": "khaledxyz",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "pdf-poppler": "^0.2.1",
+    "sharp": "^0.32.4"
+  }
+}
